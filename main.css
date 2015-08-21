@@ -1,9 +1,15 @@
-body {
-	background-image: url("background.jpg");
+.navbar .navbar-custom {
+	background-color: #97bad0;
+	padding: 5px;
+	box-shadow: 0 0 30px black
 }
 .mainContainer {
 	text-align: center;
 	margin-bottom: 40px;
+	background-color: #0074bb;
+	background-size: 100%;
+	background-origin: content;
+	background-repeat: no-repeat;
 }
 
 .mainContainer:before {
@@ -22,4 +28,8 @@ body {
 
 .mainContainer .thumbnail {
 	margin-bottom: 0px;
+	padding-top: 20px;
+	box-shadow: 0 0 30px black;
+	background-color: #97bad0;
 }
+#663300
